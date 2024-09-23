@@ -9,6 +9,8 @@
 
   height: 100vh;
   background-image: url("/scale.svg");
+  background-size: cover;
+  background-position: center;
   background-color: rgba(0, 0, 0, 0);
   flex-wrap: wrap;
 }
