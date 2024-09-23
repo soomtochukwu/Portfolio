@@ -19,11 +19,11 @@ const sidebarTopItems = [
   },
   {
     Icon: WhatsAppIcon,
-    path: "https://wa.me/2348165261759",
+    path: "https://wa.link/gos92y",
   },
   {
     Icon: TwitterIcon,
-    path: "https://x.com/tweetSomto",
+    path: "https://twitter.com/messages/compose?recipient_id=1403382469248884736&text=Hey%20%F0%9F%91%8B%20Somtochukwu%0AI%20am%20__%20%0AI'am%20just%20coming%20from%20your%20portfolio%20%F0%9F%93%96%20and%20I%20am%20impressed%20%F0%9F%98%8C%0A%0ALet's%20work%20together.",
   },
   {
     Icon: GithubIcon,
