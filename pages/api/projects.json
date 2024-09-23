@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "EduChain",
+    "image": "/educhain.png",
+    "description": "...Revolutionizing Education Through Personalized Learning with Blockchain and AI (MVP). EduChain leverages the power of blockchain and AI to create a dynamic, secure, and rewarding learning experience for all.",
+    "tags": ["Solidity", "NextJS", "TailwindCss", "Klaytn"],
+    "source_code": "https://github.com/soomtochukwu/cuberhack",
+    "demo": "https://educhainhq.vercel.app/"
+  },
+  {
+    "id": 2,
+    "name": "DesignHubHQ",
+    "image": "https://designhubhq.vercel.app/favicon.ico",
+    "description": "DesignHubHQ is a brand dedicated to providing high-quality website and app design services for clients. Our MVP focuses on streamlining the design process, ensuring clear communication, and delivering exceptional design solutions tailored to our costumers needs.",
+    "tags": ["NextJS", "TailwindCss"],
+    "source_code": "#",
+    "demo": "https://designhubhq.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "Governator",
+    "image": "https://governator.vercel.app/_next/image?url=%2Flogo.png&w=48&q=75",
+    "description": "Governator is a decentralized app (voting platform) \nto: Secure and streamline decision-making processes in Africa. \nUtilize blockchain technology for transparency and anonymity. \nFacilitate governmental electoral processes and institutional decision-making.",
+    "tags": ["Solidity", "NextJS", "TailwindCss"],
+    "source_code": "https://github.com/soomtochukwu/Governator/",
+    "demo": "https://gozkybrain.github.io/My-Guessing-Game-Pro"
+  },
+  {
+    "id": 4,
+    "name": "Confetti-Cuisine",
+    "image": "https://raw.githubusercontent.com/soomtochukwu/Confetti-Cuisine/refs/heads/main/public/images/fruit.jpg",
+    "description": "Learn how to cook your favorite cuisines.",
+    "tags": ["react", "css", "javascript"],
+    "source_code": "https://github.com/soomtochukwu/Confetti-Cuisine/tree/main",
+    "demo": "https://github.com/soomtochukwu/Confetti-Cuisine/tree/main"
+  },
+  {
+    "id": 5,
+    "name": "Canvas",
+    "image": "https://raw.githubusercontent.com/soomtochukwu/Canvas/refs/heads/main/img/ProCanJav.png",
+    "description": "A HTML and JavaScript based app that allows you to draw and save images with your browser.",
+    "tags": ["css", "javascript", "html"],
+    "source_code": "https://github.com/soomtochukwu/Canvas",
+    "demo": "https://github.com/Gozkybrain/GCK-Dashboard"
+  },
+  {
+    "id": 6,
+    "name": "Upgradeable_Smart_Contract",
+    "image": "https://sepolia.etherscan.io/assets/svg/logos/logo-etherscan.svg?v=0.0.5",
+    "description": "A simple hardhat project that demonstrates how smart contracts are/can be upgraded. The deploy scripts also demonstrates the deployment and verification of multiple smart contracts at once.",
+    "tags": ["Solidity", "Hardhat"],
+    "source_code": "https://github.com/soomtochukwu/Upgradeable_Smart_Contract",
+    "demo": "https://sepolia.etherscan.io/address/0x20f520e4a14c982aeca58ae7ec0deac79d155d14#code"
+  },
+  {
+    "id": 7,
+    "name": "NFT",
+    "image": "https://sepolia.etherscan.io/assets/svg/logos/logo-etherscan.svg?v=0.0.5",
+    "description": "A Solidity Smart Contract for minting NFTs.",
+    "tags": ["Solidity", "Hardhat"],
+    "source_code": "https://github.com/soomtochukwu/NFTclass",
+    "demo": "https://sepolia.etherscan.io/address/0x77d55333a2ffe4347898ad66e65273e87061a7fb#writeContract"
+  },
+  {
+    "id": 8,
+    "name": "somtoT",
+    "image": "https://sepolia.etherscan.io/assets/svg/logos/logo-etherscan.svg?v=0.0.5",
+    "description": "MY PERSONAL TOKEN, SOMTO(ST) THIS IS IN MY ATTEMPT TO CREATE A TOKEN FOR MY SELF I MIGHT USE IT FOR ANYTHING IN THE FUTURE THERE ARE ONLY 100 UNITS, I HOPES THIS CREATE SCARCITY AND HENCE IMPROVE THE VALUE THEREOF.",
+    "tags": ["Solidity", "Hardhat"],
+    "source_code": "https://github.com/soomtochukwu/somtoT",
+    "demo": "https://sepolia.etherscan.io/token/0xf4c2fe23437b8ba21affe9333de76c66594c0a4c#readContract"
+  },
+  {
+    "id": 9,
+    "name": "Charity-BUNN",
+    "image": "https://sepolia.etherscan.io/assets/svg/logos/logo-etherscan.svg?v=0.0.5",
+    "description": "https://github.com/soomtochukwu/charity-BUNN.",
+    "tags": ["Solidity", "Hardhat"],
+    "source_code": "https://github.com/soomtochukwu/charity-BUNN",
+    "demo": "https://sepolia.etherscan.io/address/0x91f388ef58212783886c49d2d2cc0fd83126195b#readContract"
+  }
+]

@@ -1,0 +1,79 @@
+.projects_c {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 1em;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  height: 100vh;
+  background-image: url("/scale.svg");
+  background-color: rgba(0, 0, 0, 0);
+  flex-wrap: wrap;
+}
+
+.container {
+  margin: 1.5rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  max-width: 800px;
+}
+
+.heading {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+/* On mobile screens (below 600px), show only 1 card per row */
+@media (max-width: 600px) {
+  .container {
+    grid-template-columns: 1fr;
+    /* 1 full-width card per row */
+  }
+}
+
+/* On tablets and landscape screens (601px to 900px), show 2 cards per row */
+@media (min-width: 601px) and (max-width: 900px) {
+  .container {
+    grid-template-columns: repeat(2, 1fr);
+    /* 2 equal-width columns */
+  }
+}
+
+/* On larger screens (above 900px), show 3 cards per row */
+@media (min-width: 901px) {
+  .container {
+    grid-template-columns: repeat(2, 1fr);
+    /* 3 equal-width columns */
+  }
+}
+
+/* Customize the scrollbar */
+.projects_c::-webkit-scrollbar {
+  width: 8px;
+  /* Width of the scrollbar */
+}
+
+/* Customize the scrollbar track */
+.projects_c::-webkit-scrollbar-track {
+  background: #353535;
+  /* Color of the scrollbar track */
+  /* border-radius: 10px; */
+  /* Rounded corners for the track */
+}
+
+/* Customize the scrollbar thumb (the handle) */
+.projects_c::-webkit-scrollbar-thumb {
+  background-color: #1c1c1c;
+  /* Color of the scrollbar thumb */
+  /* Rounded corners for the thumb */
+  /* Optional: Adds a border around the thumb */
+}
+
+/* Scrollbar thumb when hovered */
+.projects_c::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+  /* Changes color when hovering */
+}
