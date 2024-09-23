@@ -14,7 +14,7 @@ const CustomHead = ({ title }) => {
       />
       <meta property="og:title" content="Somtochukwu Mazi's Portfolio" />
       <meta property="og:description" content="A normal life is Boring." />
-      <meta property="og:url" content="https://somtochukwu.k.o.vercel.app" />
+      <meta property="og:url" content="https://somtochukwu-ko.vercel.app/" />
     </Head>
   );
 };
