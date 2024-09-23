@@ -6,6 +6,12 @@
   overflow: hidden;
 }
 
+.hide {
+  visibility: hidden;
+  position: fixed;
+}
+
+
 .content {
   padding: 2rem;
   color: var(--text-color);
