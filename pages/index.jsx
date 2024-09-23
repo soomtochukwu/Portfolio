@@ -129,8 +129,8 @@ export default function HomePage() {
             <Image
               src={art0}
               alt="Sarcastic Geek Logo"
-              width={400}
-              height={400}
+              width={650}
+              height={650}
               className={styling.myImg}
             />
           </div>
