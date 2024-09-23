@@ -205,20 +205,30 @@
 }
 
 .forMobile {
-   padding: 30px 0;
+    padding: 30px 0;
+}
+
+.img {
+    width: 3em;
+    height: 3em;
 }
 
 /* Hides the element on screen widths less than 768px */
 @media screen and (max-width: 900px) {
     .myImg {
-      display: none !important;
+        display: none !important;
     }
 
     .container {
         margin-top: 1000px;
-      }
-  }
-  
+    }
+
+    .img {
+        width: 1.5em;
+        height: 1.5em;
+    }
+}
+
 
 /* Mobile styles */
 @media (max-width: 768px) {

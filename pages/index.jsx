@@ -31,81 +31,42 @@ export default function HomePage() {
             <div className={styling.skillsContainer}>
               {/* Skill item for React */}
               <div className={styling.skillItem}>
-                <Image src={"/solidity.svg"} width={50} height={50}></Image>
-                <FontAwesomeIcon
-                  icon={solidity}
-                  size="3x"
-                  className={`${styling.icon} ${styling.reactIcon}`}
-                />
+                <img className={styling.img} src={"/solidity.svg"}></img>
                 <div className={styling.skillText}>Solidity</div>
               </div>
               {/* Skill item for Solana Rust */}
               <div className={styling.skillItem}>
-                <Image src={"/cairo.png"} width={50} height={50}></Image>
-                <FontAwesomeIcon
-                  icon={solidity}
-                  size="3x"
-                  className={`${styling.icon} ${styling.rustIcon}`}
-                />
+                <img className={styling.img} src={"/cairo.png"}></img>
                 <div className={styling.skillText}>Cairo</div>
               </div>
               {/* Skill item for WordPress */}
               <div className={styling.skillItem}>
-                <Image src={"/hardhat.svg"} width={50} height={50}></Image>
-                <FontAwesomeIcon
-                  icon={solidity}
-                  size="3x"
-                  className={`${styling.icon} ${styling.wordpressIcon}`}
-                />
+                <img className={styling.img} src={"/hardhat.svg"}></img>
                 <div className={styling.skillText}>Hardhat</div>
               </div>
 
               {/* Skill item for JavaScript */}
               <div className={styling.skillItem}>
-                <Image src={"/ethers.svg"} width={50} height={50}></Image>
-                <FontAwesomeIcon
-                  icon={solidity}
-                  size="3x"
-                  className={`${styling.icon} ${styling.jsIcon}`}
-                />
+                <img className={styling.img} src={"/ethers.svg"}></img>
                 <div className={styling.skillText}>Ether.JS</div>
               </div>
               <div className={styling.skillItem}>
-                <Image src={"/web3js.svg"} width={50} height={50}></Image>
-                <FontAwesomeIcon
-                  icon={solidity}
-                  size="3x"
-                  className={`${styling.icon} ${styling.jsIcon}`}
-                />
+                <img className={styling.img} src={"/web3js.svg"}></img>
                 <div className={styling.skillText}>Web3JS</div>
               </div>
 
               {/* Skill item for Express.js */}
               <div className={styling.skillItem}>
-                <Image src={"/express.png"} width={50} height={50}></Image>
-                <FontAwesomeIcon
-                  icon={solidity}
-                  size="3x"
-                  className={`${styling.icon} ${styling.nodeIcon}`}
-                />
+                <img className={styling.img} src={"/express.png"}></img>
                 <div className={styling.skillText}>Express.js</div>
               </div>
               <div className={styling.skillItem}>
-                <FontAwesomeIcon
-                  icon={faReact}
-                  size="3x"
-                  className={`${styling.icon} ${styling.reactIcon}`}
-                />
+                <img className={styling.img} src={"/react_icon.svg"}></img>
                 <div className={styling.skillText}>React</div>
               </div>
               <div className={styling.skillItem}>
-                <Image src={"/mongodb.svg"} width={50} height={50}></Image>
+                <img className={styling.img} src={"/mongodb.svg"}></img>
 
-                <FontAwesomeIcon
-                  icon={solidity}
-                  size="3x"
-                  className={`${styling.icon} ${styling.reactIcon}`}
-                />
                 <div className={styling.skillText}>MongoDB</div>
               </div>
               {/*  */}
