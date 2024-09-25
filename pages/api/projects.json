@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Minth",
     "image": "/minth.png",
-    "description": "...Turn your fav. images into NFTs 😃. Minth ia an ERC721 smart contract frontend that allows you to pin your images to th IPFS and mint them to your wallet",
+    "description": "...Turn your fav. images into NFTs 😃. Minth is an ERC721 smart contract frontend that allows you to pin your images to the IPFS and mint them to your wallet, all with one click of a button.",
     "tags": ["Solidity", "NextJS", "TailwindCss", "javascript", "Hardhat"],
     "source_code": "https://github.com/soomtochukwu/minth",
     "demo": "https://minth.vercel.app/"
