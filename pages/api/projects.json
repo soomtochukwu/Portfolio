@@ -1,6 +1,15 @@
 [
   {
     "id": 1,
+    "name": "Minth",
+    "image": "/minth.png",
+    "description": "...Turn your fav. images into NFTs 😃. Minth ia an ERC721 smart contract frontend that allows you to pin your images to th IPFS and mint them to your wallet",
+    "tags": ["Solidity", "NextJS", "TailwindCss", "javascript", "Hardhat"],
+    "source_code": "https://github.com/soomtochukwu/minth",
+    "demo": "https://minth.vercel.app/"
+  },
+  {
+    "id": 1,
     "name": "EduChain",
     "image": "/educhain.png",
     "description": "...Revolutionizing Education Through Personalized Learning with Blockchain and AI (MVP). EduChain leverages the power of blockchain and AI to create a dynamic, secure, and rewarding learning experience for all.",
