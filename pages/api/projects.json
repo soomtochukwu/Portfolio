@@ -24,7 +24,7 @@
     "description": "Governator is a decentralized app (voting platform) \nto: Secure and streamline decision-making processes in Africa. \nUtilize blockchain technology for transparency and anonymity. \nFacilitate governmental electoral processes and institutional decision-making.",
     "tags": ["Solidity", "NextJS", "TailwindCss"],
     "source_code": "https://github.com/soomtochukwu/Governator/",
-    "demo": "https://gozkybrain.github.io/My-Guessing-Game-Pro"
+    "demo": "https://governator.vercel.app/"
   },
   {
     "id": 4,
