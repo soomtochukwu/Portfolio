@@ -12,8 +12,11 @@ const CustomHead = ({ title }) => {
         name="keywords"
         content="Somtochukwu Mazi, FullStack W3B & W2B Developer, mern+solidity stack, vscode-portfolio"
       />
-      <meta property="og:title" content="Somtochukwu Mazi's Portfolio" />
-      <meta property="og:description" content="A normal life is Boring." />
+      <meta property="og:title" content="Somtochukwu K. Onwuajuese" />
+      <meta
+        property="og:description"
+        content="...an amazing developer that likes to make complex stuff as easy as possible 😊."
+      />
       <meta property="og:url" content="https://somtochukwu-ko.vercel.app/" />
     </Head>
   );
