@@ -114,6 +114,13 @@ const ContactPage = () => {
         </div>
   
       </div>
+      <a 
+  href="/resume.pdf" 
+  download="Somtochukwu_Resume.pdf" 
+  class="inline-block bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-700 focus:outline-none focus:ring focus:ring-blue-300 transition"
+>
+  Download Resume as PDF
+</a>
     </div>
   );
 };
