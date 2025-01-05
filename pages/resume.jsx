@@ -107,7 +107,7 @@ const ContactPage = () => {
         </div>
   
         <div className={styles.item}>
-          <h4 className={styles.resumeHead}>Team Su-iDen</h4>
+          <h4 className={styles.resumeHead}>Team SUI-DEN</h4>
           <div>Hackathon: SUI on campus </div>
           <div>Backend developer</div>
           <div>2024</div>
