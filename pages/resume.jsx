@@ -92,7 +92,7 @@ const ContactPage = () => {
         </div>
 
         <div className={styles.item}>
-          <h4 className={styles.resumeHead}>Team Cuberhack</h4>
+          <h4 className={styles.resumeHead}>Team Cyberhack</h4>
           <div>Hackathon: Klaytn Bounty</div>
           <div>Frontend Integrator</div>
           <div>2023</div>
@@ -100,14 +100,14 @@ const ContactPage = () => {
 
         
         <div className={styles.item}>
-          <h4 className={styles.resumeHead}>Team Cuberhack</h4>
+          <h4 className={styles.resumeHead}>Team Cyberhack</h4>
           <div>Hackathon: BlockchainUNN Blockathon</div>
-          <div>Smart contract and front end developer</div>
+          <div>Smart contract and frontend developer</div>
           <div>2024</div>
         </div>
   
         <div className={styles.item}>
-          <h4 className={styles.resumeHead}>Team Cuberhack</h4>
+          <h4 className={styles.resumeHead}>Team Su-iDen</h4>
           <div>Hackathon: SUI on campus </div>
           <div>Backend developer</div>
           <div>2024</div>
