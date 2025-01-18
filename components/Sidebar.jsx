@@ -23,7 +23,7 @@ const sidebarTopItems = [
   },
   {
     Icon: TwitterIcon,
-    path: "https://twitter.com/messages/compose?recipient_id=1693235222978887680&text=Hello%20Mr.%20Somtochukwu%20%0AI%20like%20your%20portfolio%20and%20would%20like%20to%20work%20with%20you%20",
+    path: "https://x.com/tweetSomto",
   },
   {
     Icon: GithubIcon,
