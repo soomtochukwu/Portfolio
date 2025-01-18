@@ -114,8 +114,6 @@ const ContactPage = () => {
         </div>
   
       </div>
- <a href="javascript:window.print()">Download this as a PDF</a>
-
     </div>
   );
 };
